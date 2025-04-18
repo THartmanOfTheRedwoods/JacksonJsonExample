@@ -1,11 +1,13 @@
 {
   "PC": true,
   "Name": "Jane Test",
-  "hp": 42,
-  "mp": 60,
-  "ap": 0,
-  "xp": 99,
-  "sp": 0,
+  "ResourcePoints": {
+    "hp": 42,
+    "mp": 60,
+    "ap": 0,
+    "xp": 99,
+    "sp": 0
+  },
   "Position": {
     "x":3,
     "y":1
